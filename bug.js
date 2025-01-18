@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an issue where data wasn't updating correctly in Realtime Database, even though the write operation appeared successful. The issue was intermittent, occurring only sometimes, making it harder to reproduce and debug.  The data structure was relatively straightforward, involving a simple counter being incremented.
